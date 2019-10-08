@@ -1,0 +1,6 @@
+Start of Order
+$1 hotdog With Mustard
+$1 Plain BBQ Chips
+$1 Diet
+Please delvier this to 
+The order total is: 3

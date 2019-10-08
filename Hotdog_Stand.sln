@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotdog_Stand", "Hotdog_Stand\Hotdog_Stand.csproj", "{5F8F26D7-C390-4004-985F-35CC5E32B0D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F8F26D7-C390-4004-985F-35CC5E32B0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8F26D7-C390-4004-985F-35CC5E32B0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8F26D7-C390-4004-985F-35CC5E32B0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8F26D7-C390-4004-985F-35CC5E32B0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {961C5A6D-EF6D-4935-A8E9-01BE76FE5BEE}
+	EndGlobalSection
+EndGlobal
